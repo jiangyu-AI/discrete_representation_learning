@@ -15,6 +15,22 @@ This repository implements parts of the paper, [Neural Discrete Representation L
 - tqdm
 
 
+##  Result: 
+
+- [x] MNIST Dataset
+
+  | Test Set Images | Reconstructed Images |
+  | ------------- |:-------------:|
+  |![MNIST original images](/assets/mnist_orig.png) | ![MNIST Reconstructed Images](/assets/mnsit_reconst.png) |
+  |![MNIST sample images](/assets/mnist_sample.png) | 
+
+
+- [x] CIFAR10 Dataset
+
+  | Test Set Images | Reconstructed Images |
+  | ------------- |:-------------:|
+  |![CIFAR10 original images](/assets/cifar10_orig.png) | ![CIFAR10 Reconstructed Images](/assets/cifar10_reconst.png) |
+  |![CIFAR10 sample images](/assets/cifar10_sample.png) | 
 
 ### train models
 
