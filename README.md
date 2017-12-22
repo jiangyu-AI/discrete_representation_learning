@@ -21,7 +21,7 @@ This repository implements parts of the paper, [Neural Discrete Representation L
 
   | Test Set Images | Reconstructed Images |
   | ------------- |:-------------:|
-  |![MNIST original images](/assets/mnist_orig.png) | ![MNIST Reconstructed Images](/assets/mnsit_reconst.png) |
+  |![MNIST original images](/assets/mnist_orig.png) | ![MNIST Reconstructed Images](/assets/mnist_reconst.png) |
   |![MNIST sample images](/assets/mnist_sample.png) | 
 
 
